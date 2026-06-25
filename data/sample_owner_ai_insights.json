@@ -1,0 +1,37 @@
+{
+  "MCR-2026-001": {
+    "fit": "medium",
+    "urgency": "soon",
+    "why_it_matched": "Rear extension roof alterations and new rooflights are a useful roofing opportunity.",
+    "suggested_next_action": "Open the planning page, confirm the rooflight and roof alteration details, then send a short roofing introduction.",
+    "confidence": 0.86
+  },
+  "MCR-2026-002": {
+    "fit": "high",
+    "urgency": "soon",
+    "why_it_matched": "Loft conversion and rear dormer roof extension are a strong roofing fit.",
+    "suggested_next_action": "Open the planning documents, check the roof scope, then call or send a short letter if the project is active.",
+    "confidence": 0.93
+  },
+  "MCR-2026-003": {
+    "fit": "medium",
+    "urgency": "soon",
+    "why_it_matched": "Replacement slate roof covering and chimney repairs match roofing repair work.",
+    "suggested_next_action": "Check the planning documents for roof material details, then approach with relevant slate and chimney repair experience.",
+    "confidence": 0.88
+  },
+  "MCR-2026-006": {
+    "fit": "medium",
+    "urgency": "monitor",
+    "why_it_matched": "Roof-mounted solar panels may need roof condition checks or roofing coordination.",
+    "suggested_next_action": "Review whether the roof covering is affected, then offer a roof inspection before panel installation.",
+    "confidence": 0.78
+  },
+  "MCR-2026-008": {
+    "fit": "low",
+    "urgency": "monitor",
+    "why_it_matched": "The pitched roof kitchen extension has some roofing relevance but the refusal lowers priority.",
+    "suggested_next_action": "Monitor for a revised application before spending time on direct outreach.",
+    "confidence": 0.64
+  }
+}

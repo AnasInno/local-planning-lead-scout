@@ -1,0 +1,40 @@
+{
+  "title": "Planning Lead Scout",
+  "description": "Put in your trade and area. Get this week's planning jobs worth checking.",
+  "fields": [
+    {
+      "name": "trade",
+      "label": "Trade",
+      "type": "text",
+      "default": "roofer",
+      "save_to": "data/web_trade.txt"
+    },
+    {
+      "name": "area_postcode",
+      "label": "Town or postcode",
+      "type": "text",
+      "default": "Manchester",
+      "save_to": "data/web_area_postcode.txt",
+      "help": "Use Manchester for demo data or a postcode/outcode such as M14 for live public planning data."
+    },
+    {
+      "name": "days",
+      "label": "Date range",
+      "type": "number",
+      "default": "30",
+      "save_to": "data/web_days.txt",
+      "help": "Number of days to look back."
+    }
+  ],
+  "run": {
+    "button_label": "Find leads",
+    "command": ["python3", "scripts/owner_app.py", "--once", "--trade-file", "data/web_trade.txt", "--area-postcode-file", "data/web_area_postcode.txt", "--days-file", "data/web_days.txt", "--output", "output/owner_shortlist.csv", "--ai-fixture", "data/sample_owner_ai_insights.json"],
+    "timeout_seconds": 120
+  },
+  "outputs": [
+    {
+      "label": "AI-ranked shortlist CSV",
+      "path": "output/owner_shortlist.csv"
+    }
+  ]
+}
