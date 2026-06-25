@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+!.env.example
+data/web_*
+output/*.csv
+!output/.gitkeep

@@ -1,0 +1,37 @@
+{
+  "entities": [
+    {
+      "reference": "API-2026-001",
+      "address-text": "24 Fixture Road, Manchester, M1 1AA",
+      "description": "Householder planning application for a rear dormer roof extension with rooflights and slate repairs.",
+      "organisation-entity": "Manchester City Council",
+      "planning-decision": "validated",
+      "development-classification": "householder",
+      "start-date": "2026-06-20",
+      "decision-date": "",
+      "documentation-url": "https://planning.example.local/API-2026-001"
+    },
+    {
+      "reference": "API-2026-002",
+      "address-text": "7 Public Lane, Manchester, M2 2BB",
+      "description": "Single-storey side extension with pitched roof and replacement tiles.",
+      "organisation-entity": "Manchester City Council",
+      "planning-decision": "submitted",
+      "development-classification": "householder",
+      "start-date": "2026-06-18",
+      "decision-date": "",
+      "documentation-url": "https://planning.example.local/API-2026-002"
+    },
+    {
+      "reference": "API-2026-003",
+      "address-text": "3 Civic Close, Manchester, M3 3CC",
+      "description": "Crown reduction works to one mature oak tree in the rear garden.",
+      "organisation-entity": "Manchester City Council",
+      "planning-decision": "submitted",
+      "development-classification": "tree works",
+      "start-date": "2026-06-17",
+      "decision-date": "",
+      "documentation-url": "https://planning.example.local/API-2026-003"
+    }
+  ]
+}

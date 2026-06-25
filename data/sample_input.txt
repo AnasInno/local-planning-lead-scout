@@ -1,0 +1,11 @@
+reference,area,site_address,description,status,application_type,validated_date,decision_date,source_url
+MCR-2026-001,Manchester,12 Example Road,Single-storey rear extension with roof alterations and new rooflights,submitted,householder,2026-06-18,,https://planning.example.local/MCR-2026-001
+MCR-2026-002,Manchester,8 Sample Street,Hip-to-gable loft conversion with rear dormer roof extension,validated,householder,2026-06-12,,https://planning.example.local/MCR-2026-002
+MCR-2026-003,Manchester,21 Demo Avenue,Replacement slate roof covering and chimney repairs,approved,householder,2026-06-05,2026-06-20,https://planning.example.local/MCR-2026-003
+MCR-2026-004,Manchester,5 Tree Close,Crown reduction to sycamore tree in rear garden,submitted,tree works,2026-06-15,,https://planning.example.local/MCR-2026-004
+MCR-2026-005,Manchester,40 Retail Parade,Internally illuminated shop fascia signage,submitted,advertisement,2026-06-17,,https://planning.example.local/MCR-2026-005
+SAL-2026-011,Salford,3 Canal Yard,Two-storey side extension and garage conversion,validated,householder,2026-06-04,,https://planning.example.local/SAL-2026-011
+MCR-2026-006,Manchester,18 Solar Mews,Installation of roof mounted solar panels and battery storage,submitted,householder,2026-05-30,,https://planning.example.local/MCR-2026-006
+MCR-2026-007,Manchester,77 Office Park,Telecommunications equipment cabinet upgrade,submitted,telecoms,2026-06-10,,https://planning.example.local/MCR-2026-007
+BOL-2026-021,Bolton,14 Market Road,First floor extension over existing garage,approved,householder,2026-06-01,2026-06-22,https://planning.example.local/BOL-2026-021
+MCR-2026-008,Manchester,2 Kitchen Lane,Single-storey rear kitchen extension with pitched roof,refused,householder,2026-06-03,2026-06-21,https://planning.example.local/MCR-2026-008

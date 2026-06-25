@@ -1,0 +1,13 @@
+[project]
+name = "day_002_local_planning_lead_scout"
+version = "0.1.0"
+description = "Daily AI automation: Local Planning Lead Scout"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+llm = ["google-genai>=1"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
